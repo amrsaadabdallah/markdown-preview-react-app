@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/markdown-preview-react-app/static/css/main.684042cc.css",
+    "main.js": "/markdown-preview-react-app/static/js/main.69d15e67.js",
+    "index.html": "/markdown-preview-react-app/index.html",
+    "main.684042cc.css.map": "/markdown-preview-react-app/static/css/main.684042cc.css.map",
+    "main.69d15e67.js.map": "/markdown-preview-react-app/static/js/main.69d15e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.684042cc.css",
+    "static/js/main.69d15e67.js"
+  ]
+}
